@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf3e671b.chunk.css",
-    "main.js": "/build/main.9ead1b98.js",
+    "main.css": "/static/css/main.60a3ebcb.chunk.css",
+    "main.js": "/build/main.6a3dac7a.js",
     "runtime-main.js": "/build/bundle.b50e26a4.js",
     "static/css/2.0c23e5f5.chunk.css": "/static/css/2.0c23e5f5.chunk.css",
     "build/2.504b9eec.js": "/build/2.504b9eec.js",
     "build/2.504b9eec.js.LICENSE.txt": "/build/2.504b9eec.js.LICENSE.txt",
     "index.html": "/index.html",
     "static/css/2.0c23e5f5.chunk.css.map": "/static/css/2.0c23e5f5.chunk.css.map",
-    "static/css/main.cf3e671b.chunk.css.map": "/static/css/main.cf3e671b.chunk.css.map",
+    "static/css/main.60a3ebcb.chunk.css.map": "/static/css/main.60a3ebcb.chunk.css.map",
     "static/media/core.min.css": "/static/media/Spectral-Regular.7d0f535c.woff"
   },
   "entrypoints": [
     "build/bundle.b50e26a4.js",
     "static/css/2.0c23e5f5.chunk.css",
     "build/2.504b9eec.js",
-    "static/css/main.cf3e671b.chunk.css",
-    "build/main.9ead1b98.js"
+    "static/css/main.60a3ebcb.chunk.css",
+    "build/main.6a3dac7a.js"
   ]
 }
