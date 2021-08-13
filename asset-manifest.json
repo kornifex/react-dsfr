@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.60a3ebcb.chunk.css",
-    "main.js": "/build/main.433a9098.js",
+    "main.css": "/static/css/main.a1f59259.chunk.css",
+    "main.js": "/build/main.ebcc41d1.js",
     "runtime-main.js": "/build/bundle.b50e26a4.js",
     "static/css/2.0c23e5f5.chunk.css": "/static/css/2.0c23e5f5.chunk.css",
     "build/2.2afe25d5.js": "/build/2.2afe25d5.js",
     "build/2.2afe25d5.js.LICENSE.txt": "/build/2.2afe25d5.js.LICENSE.txt",
     "index.html": "/index.html",
     "static/css/2.0c23e5f5.chunk.css.map": "/static/css/2.0c23e5f5.chunk.css.map",
-    "static/css/main.60a3ebcb.chunk.css.map": "/static/css/main.60a3ebcb.chunk.css.map",
+    "static/css/main.a1f59259.chunk.css.map": "/static/css/main.a1f59259.chunk.css.map",
     "static/media/core.min.css": "/static/media/Spectral-Regular.7d0f535c.woff"
   },
   "entrypoints": [
     "build/bundle.b50e26a4.js",
     "static/css/2.0c23e5f5.chunk.css",
     "build/2.2afe25d5.js",
-    "static/css/main.60a3ebcb.chunk.css",
-    "build/main.433a9098.js"
+    "static/css/main.a1f59259.chunk.css",
+    "build/main.ebcc41d1.js"
   ]
 }
