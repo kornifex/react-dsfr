@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.db69df0c.chunk.css",
-    "main.js": "/build/main.4a42c539.js",
+    "main.css": "/static/css/main.052921b8.chunk.css",
+    "main.js": "/build/main.194100a9.js",
     "runtime-main.js": "/build/bundle.b50e26a4.js",
     "static/css/2.f8fe149e.chunk.css": "/static/css/2.f8fe149e.chunk.css",
-    "build/2.6d73b6d5.js": "/build/2.6d73b6d5.js",
-    "build/2.6d73b6d5.js.LICENSE.txt": "/build/2.6d73b6d5.js.LICENSE.txt",
+    "build/2.f26341f7.js": "/build/2.f26341f7.js",
+    "build/2.f26341f7.js.LICENSE.txt": "/build/2.f26341f7.js.LICENSE.txt",
     "index.html": "/index.html",
     "static/css/2.f8fe149e.chunk.css.map": "/static/css/2.f8fe149e.chunk.css.map",
-    "static/css/main.db69df0c.chunk.css.map": "/static/css/main.db69df0c.chunk.css.map",
+    "static/css/main.052921b8.chunk.css.map": "/static/css/main.052921b8.chunk.css.map",
     "static/media/core.min.css": "/static/media/Spectral-Regular.7d0f535c.woff",
     "static/media/dark.svg": "/static/media/dark.43fd2e46.svg",
     "static/media/light.svg": "/static/media/light.dfc25c5e.svg"
@@ -16,8 +16,8 @@
   "entrypoints": [
     "build/bundle.b50e26a4.js",
     "static/css/2.f8fe149e.chunk.css",
-    "build/2.6d73b6d5.js",
-    "static/css/main.db69df0c.chunk.css",
-    "build/main.4a42c539.js"
+    "build/2.f26341f7.js",
+    "static/css/main.052921b8.chunk.css",
+    "build/main.194100a9.js"
   ]
 }
