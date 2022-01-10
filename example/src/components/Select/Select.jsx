@@ -11,6 +11,7 @@ const SelectExample = () => {
   const [department, setDepartment] = useState('5');
   const [departments, setDepartments] = useState([]);
   const [options, setOptions] = useState([]);
+  const [inside, setInside] = useState();
 
   useEffect(() => {
     setTimeout(() => { setDepartments(DEPARTEMENTS); }, 1000);
@@ -27,6 +28,11 @@ const SelectExample = () => {
     }, 1000);
     setTimeout(() => setSelectValue2('2'), 2000);
   }, []);
+
+  useEffect(() => {
+    console.log(inside);
+    setDepartments(DEPARTEMENTS.filter((x) => x.startsWith(inside)));
+  }, [inside]);
 
   return (
     <Col>
@@ -55,6 +61,7 @@ const SelectExample = () => {
         )}
         selected={department}
         onChange={setDepartment}
+        onTextChange={setInside}
         options={departments.map((departement, i) => ({
           value: i.toString(),
           label: departement,
