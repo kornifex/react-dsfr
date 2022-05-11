@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bfb4022.chunk.css",
-    "main.js": "/build/main.0f4a7571.js",
+    "main.css": "/static/css/main.aaa42983.chunk.css",
+    "main.js": "/build/main.d88e1cc7.js",
     "runtime-main.js": "/build/bundle.5fd29ff5.js",
     "static/css/2.aa053abc.chunk.css": "/static/css/2.aa053abc.chunk.css",
-    "build/2.65dba689.js": "/build/2.65dba689.js",
-    "build/2.65dba689.js.LICENSE.txt": "/build/2.65dba689.js.LICENSE.txt",
+    "build/2.821c15db.js": "/build/2.821c15db.js",
+    "build/2.821c15db.js.LICENSE.txt": "/build/2.821c15db.js.LICENSE.txt",
     "index.html": "/index.html",
     "static/css/2.aa053abc.chunk.css.map": "/static/css/2.aa053abc.chunk.css.map",
-    "static/css/main.2bfb4022.chunk.css.map": "/static/css/main.2bfb4022.chunk.css.map",
+    "static/css/main.aaa42983.chunk.css.map": "/static/css/main.aaa42983.chunk.css.map",
     "static/media/core.css": "/static/media/external-link-line.5fac7fc1.svg",
     "static/media/accordion.css": "/static/media/subtract-line.8867e73b.svg",
     "static/media/sidemenu.css": "/static/media/menu-2-fill.22d9c6a4.svg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "build/bundle.5fd29ff5.js",
     "static/css/2.aa053abc.chunk.css",
-    "build/2.65dba689.js",
-    "static/css/main.2bfb4022.chunk.css",
-    "build/main.0f4a7571.js"
+    "build/2.821c15db.js",
+    "static/css/main.aaa42983.chunk.css",
+    "build/main.d88e1cc7.js"
   ]
 }
