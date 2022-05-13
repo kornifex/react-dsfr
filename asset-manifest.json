@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.336e0040.chunk.css",
-    "main.js": "/build/main.bae14a12.js",
+    "main.css": "/static/css/main.1421aed6.chunk.css",
+    "main.js": "/build/main.10aaebf6.js",
     "runtime-main.js": "/build/bundle.5fd29ff5.js",
-    "static/css/2.aa053abc.chunk.css": "/static/css/2.aa053abc.chunk.css",
-    "build/2.4db3530c.js": "/build/2.4db3530c.js",
-    "build/2.4db3530c.js.LICENSE.txt": "/build/2.4db3530c.js.LICENSE.txt",
+    "static/css/2.d2ea6a85.chunk.css": "/static/css/2.d2ea6a85.chunk.css",
+    "build/2.369e9b27.js": "/build/2.369e9b27.js",
+    "build/2.369e9b27.js.LICENSE.txt": "/build/2.369e9b27.js.LICENSE.txt",
     "index.html": "/index.html",
-    "static/css/2.aa053abc.chunk.css.map": "/static/css/2.aa053abc.chunk.css.map",
-    "static/css/main.336e0040.chunk.css.map": "/static/css/main.336e0040.chunk.css.map",
+    "static/css/2.d2ea6a85.chunk.css.map": "/static/css/2.d2ea6a85.chunk.css.map",
+    "static/css/main.1421aed6.chunk.css.map": "/static/css/main.1421aed6.chunk.css.map",
     "static/media/core.css": "/static/media/external-link-line.5fac7fc1.svg",
     "static/media/accordion.css": "/static/media/subtract-line.8867e73b.svg",
     "static/media/sidemenu.css": "/static/media/menu-2-fill.22d9c6a4.svg",
@@ -17,6 +17,7 @@
     "static/media/toggle.css": "/static/media/check-line.b45a007d.svg",
     "static/media/tag.css": "/static/media/close-line.69dfb9f7.svg",
     "static/media/dark.svg": "/static/media/dark.43fd2e46.svg",
+    "static/media/share.css": "/static/media/twitter-line.de8a811c.svg",
     "static/media/badge.css": "/static/media/fr--warning-fill.dfc431c9.svg",
     "static/media/button.css": "/static/media/fr--theme-fill.612a73b3.svg",
     "static/media/light.svg": "/static/media/light.dfc25c5e.svg",
@@ -25,9 +26,9 @@
   },
   "entrypoints": [
     "build/bundle.5fd29ff5.js",
-    "static/css/2.aa053abc.chunk.css",
-    "build/2.4db3530c.js",
-    "static/css/main.336e0040.chunk.css",
-    "build/main.bae14a12.js"
+    "static/css/2.d2ea6a85.chunk.css",
+    "build/2.369e9b27.js",
+    "static/css/main.1421aed6.chunk.css",
+    "build/main.10aaebf6.js"
   ]
 }
