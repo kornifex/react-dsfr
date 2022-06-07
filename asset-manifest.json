@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.68c7baa7.chunk.css",
-    "main.js": "/build/main.51812ffa.js",
+    "main.js": "/build/main.99abcc8d.js",
     "runtime-main.js": "/build/bundle.5fd29ff5.js",
-    "static/css/2.d2ea6a85.chunk.css": "/static/css/2.d2ea6a85.chunk.css",
-    "build/2.ecba70dd.js": "/build/2.ecba70dd.js",
-    "build/2.ecba70dd.js.LICENSE.txt": "/build/2.ecba70dd.js.LICENSE.txt",
+    "static/css/2.af809459.chunk.css": "/static/css/2.af809459.chunk.css",
+    "build/2.93d12de1.js": "/build/2.93d12de1.js",
+    "build/2.93d12de1.js.LICENSE.txt": "/build/2.93d12de1.js.LICENSE.txt",
     "index.html": "/index.html",
-    "static/css/2.d2ea6a85.chunk.css.map": "/static/css/2.d2ea6a85.chunk.css.map",
+    "static/css/2.af809459.chunk.css.map": "/static/css/2.af809459.chunk.css.map",
     "static/css/main.68c7baa7.chunk.css.map": "/static/css/main.68c7baa7.chunk.css.map",
     "static/media/core.css": "/static/media/external-link-line.5fac7fc1.svg",
     "static/media/accordion.css": "/static/media/subtract-line.8867e73b.svg",
@@ -26,9 +26,9 @@
   },
   "entrypoints": [
     "build/bundle.5fd29ff5.js",
-    "static/css/2.d2ea6a85.chunk.css",
-    "build/2.ecba70dd.js",
+    "static/css/2.af809459.chunk.css",
+    "build/2.93d12de1.js",
     "static/css/main.68c7baa7.chunk.css",
-    "build/main.51812ffa.js"
+    "build/main.99abcc8d.js"
   ]
 }
