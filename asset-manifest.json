@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f9972bc.chunk.css",
-    "main.js": "/build/main.d93493a7.js",
+    "main.css": "/static/css/main.c32fdc37.chunk.css",
+    "main.js": "/build/main.392fb938.js",
     "runtime-main.js": "/build/bundle.5fd29ff5.js",
     "static/css/2.6df8e58a.chunk.css": "/static/css/2.6df8e58a.chunk.css",
     "build/2.5540a709.js": "/build/2.5540a709.js",
     "build/2.5540a709.js.LICENSE.txt": "/build/2.5540a709.js.LICENSE.txt",
     "index.html": "/index.html",
     "static/css/2.6df8e58a.chunk.css.map": "/static/css/2.6df8e58a.chunk.css.map",
-    "static/css/main.0f9972bc.chunk.css.map": "/static/css/main.0f9972bc.chunk.css.map",
+    "static/css/main.c32fdc37.chunk.css.map": "/static/css/main.c32fdc37.chunk.css.map",
     "static/media/core.css": "/static/media/external-link-line.5fac7fc1.svg",
     "static/media/accordion.css": "/static/media/subtract-line.8867e73b.svg",
     "static/media/sidemenu.css": "/static/media/menu-2-fill.22d9c6a4.svg",
@@ -28,7 +28,7 @@
     "build/bundle.5fd29ff5.js",
     "static/css/2.6df8e58a.chunk.css",
     "build/2.5540a709.js",
-    "static/css/main.0f9972bc.chunk.css",
-    "build/main.d93493a7.js"
+    "static/css/main.c32fdc37.chunk.css",
+    "build/main.392fb938.js"
   ]
 }
