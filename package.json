@@ -6,6 +6,7 @@
   "license": "MIT",
   "repository": "dataesr/react-dsfr",
   "main": "dist/index.min.cjs.js",
+  "module": "dist/index.min.cjs.js",
   "source": "src/index.js",
   "types": "dist/index.d.ts",
   "keywords": [
@@ -76,7 +77,8 @@
     "react-dom": "^17.0.2"
   },
   "scripts": {
-    "build": "rollup -c",
+    "prepare": "npm run build",
+    "build": "npx rollup -c",
     "deploy": "gh-pages -d build -r https://$GH_PAT@github.com/dataesr/react-dsfr.git",
     "guide": "npx styleguidist server",
     "predeploy": "styleguidist build",
